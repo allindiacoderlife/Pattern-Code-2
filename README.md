@@ -1,2 +1,2 @@
-# Pattern-Code-2
+# Pattern_Codes_C.
 C Language Code.
